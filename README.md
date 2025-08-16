@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @Hkn-Y
-- 🌱 I’m currently learning Web Development advanced JS and improving various other concepts 
-- 💞️ I’m looking to collaborate, I have my own discord servers and communities.
-- 📫 How to reach me: Through my CV / Business website in my repositories section.
